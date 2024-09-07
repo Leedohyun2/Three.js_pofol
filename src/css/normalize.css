@@ -1,4 +1,18 @@
-/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  padding: 30px 0;
+  background: rgb(171, 229, 224);
+  text-align: center;
+}
+
+.header h1 {
+  color: #fff;
+  font-size: 25px;
+}
 
 /* Document
    ========================================================================== */
